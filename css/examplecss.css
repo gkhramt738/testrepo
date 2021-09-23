@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h3 {
+    margin-left: 20px;
+    text-transform: capitalize;
+    cursor: none;
+}
+
+h2{
+    margin-left: 20px;
+}
+
+h4{
+    letter-spacing: 15px;
+}
+
+#hsample h1{
+    text-align: center;
+    color: rgb(255, 251, 0);
+}
+
+p{
+    font-family: verdana;
+    font-weight: lighter;
+    color: lightcoral;
+}   
